@@ -28,6 +28,12 @@ This can be called as:
           text="""This is the body of the email""",
           Files=['file_to_be_attached.extension'] # name if in same folder, full path otherwise 
           )
+          
+          
+## Examples of how it looks
+![PC](https://raw.githubusercontent.com/Xaimerr/python-email/master/imgs/pc.png)
+
+![Mobile (dark theme)](https://raw.githubusercontent.com/Xaimerr/python-email/master/imgs/phone.png)
 
  
  
