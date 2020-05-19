@@ -31,9 +31,9 @@ This can be called as:
           
           
 ## Examples of how it looks
-![PC](https://raw.githubusercontent.com/Xaimerr/python-email/master/imgs/pc.png)
+![PC](imgs/pc.png)
 
-![Mobile (dark theme)](https://raw.githubusercontent.com/Xaimerr/python-email/master/imgs/phone.png)
+![Mobile (dark theme)](imgs/phone.png)
 
  
  
