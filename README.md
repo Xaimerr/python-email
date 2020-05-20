@@ -1,5 +1,5 @@
 # python-email
-This code defines the function `message` to send emails from an specified email account in `libs/info.py`. It also uses the email template specified on 'libs/html_template.py'.
+This code defines the function `message` to send emails from an specified email account in `libs/info.py`. It also uses the email template specified on 'libs/html_template.py'. It assumes we are using python 3.
 
 ## `html_template.py`
  
